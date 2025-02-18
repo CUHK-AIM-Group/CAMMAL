@@ -1,0 +1,7 @@
+# ninja log v5
+3	10203	1694558015067165365	~/code/image2text2image/DPT/ops/build/temp.linux-x86_64-3.8~/code/image2text2image/DPT/ops/src/cpu/ms_deform_attn_cpu.o	9f12e2d0319079c9
+2	25145	1694558030019298954	~/code/image2text2image/DPT/ops/build/temp.linux-x86_64-3.8~/code/image2text2image/DPT/ops/src/cuda/ms_deform_attn_cuda.o	900378d9625a31e1
+3	27735	1694558032592559819	~/code/image2text2image/DPT/ops/build/temp.linux-x86_64-3.8~/code/image2text2image/DPT/ops/src/vision.o	718815b994d8c76d
+2	10773	1694911185701952847	~/code/image2text2image/FLIP_medical/ops/build/temp.linux-x86_64-3.8~/code/image2text2image/FLIP_medical/ops/src/cpu/ms_deform_attn_cpu.o	551dff108f0953ae
+3	25966	1694911200905365718	~/code/image2text2image/FLIP_medical/ops/build/temp.linux-x86_64-3.8~/code/image2text2image/FLIP_medical/ops/src/cuda/ms_deform_attn_cuda.o	f55a70df3ea7ad96
+3	28835	1694911203758259884	~/code/image2text2image/FLIP_medical/ops/build/temp.linux-x86_64-3.8~/code/image2text2image/FLIP_medical/ops/src/vision.o	e7203f5ea0571628

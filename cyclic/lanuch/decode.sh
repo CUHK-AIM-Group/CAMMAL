@@ -1,0 +1,1 @@
+python3 decode_mimic_cxr.py

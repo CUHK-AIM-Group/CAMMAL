@@ -1,0 +1,2 @@
+python3 merge_topk_patches.py
+python3 get_topk_patches.py

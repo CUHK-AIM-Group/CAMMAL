@@ -1,0 +1,3 @@
+['Outcome', 'Clinical_event', 'Biological_structure', 'Biological_attribute', 'Coreference', 'Volume', 'Qualitative_concept',  'Medication', 'Dosage', 'Distance', 'Detailed_description', 'Sign_symptom', 'Quantitative_concept', 'Date', 'Nonbiological_location', 'Area', 'Other_entity', 'Therapeutic_procedure', 'Occupation', 'Other_event', 'Disease_disorder', 'Administration', 'Activity', 'Diagnostic_procedure']
+
+['Outcome', 'Clinical_event', 'Biological_structure', 'Biological_attribute',   'Detailed_description', 'Sign_symptom', 'Quantitative_concept', 'Nonbiological_location', 'Area',  'Therapeutic_procedure', 'Disease_disorder']

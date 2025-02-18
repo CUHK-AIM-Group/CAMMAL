@@ -1,0 +1,3 @@
+python3 get_keywords_from_report.py
+
+python3 clean_keywords_from_report.py

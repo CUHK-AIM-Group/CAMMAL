@@ -1,0 +1,1 @@
+python3 ner_report_mimic.py --split_num 20 --gpu_id 0 --split_idx 0  
